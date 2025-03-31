@@ -1,5 +1,10 @@
-## Hi there 👋
+<h2 align="center">
+ Hi there, I'm Anton 👋
+</h2>
 
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7A560&width=435&lines=Passionate+Full-Stack+Developer"/
+</div>
 <!--
 **artanton/artanton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
