@@ -3,11 +3,11 @@
 </h2>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=Faaaa&width=435&lines=Passionate+Full-Stack+Developer."/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=Faaaa&width=435&lines=Passionate+Full-Stack+Developer"/>
 </div>
 
 <div align="center">
-<img src="./assets/Coding-Big-Brain.gif" width = "150px"/>
+<img src="./assets/Coding-Big-Brain.gif" width = "250px"/>
 </div>
 
 <h3 align="center" style="padding: 20px 0; font-size: 20px; font-weight: 700; letter-spacing: 0.1em; color: #7928ca;">My stack:</h3>
