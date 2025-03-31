@@ -7,11 +7,12 @@
 </div>
 
 <div align="center">
-<img src="./assets/cat_coding.gif"/>
+<img src="./assets/cat_coding.gif" width = "150px"/>
 </div>
 
 <h3 align="center" style="padding: 20px 0; font-size: 20px; font-weight: 700; letter-spacing: 0.1em; color: #7928ca;">My stack:</h3>
 
+<div align="center" style="margin-bottom: 40px;">
 <img align="center" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
 <img align="center" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
@@ -42,10 +43,14 @@
 
 <img align="center" alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="center" alt="figma" width="32px" src="./assets/figma-logo.svg" />
+</div>
+<br /><br />
+<hr />
 
 - 🌱 I’m currently learning Next.js
 - 👯 I’m looking to collaborate with a company that has well-structured hiring and onboarding processes, to foster a productive and long-term partnership.
 - 📫 How to reach me: **anton.kononov.dev@gmail.com**
+
 <!--
 **artanton/artanton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
