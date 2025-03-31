@@ -3,7 +3,7 @@
 </h2>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7A560&width=435&lines=Passionate+Full-Stack+Developer"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=Faaaa&width=435&lines=Passionate+Full-Stack+Developer."/>
 </div>
 
 <div align="center">
