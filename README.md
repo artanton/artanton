@@ -47,7 +47,7 @@
 
 - 🌱 I’m currently learning AWS
 - 👯 I’m looking to collaborate with a company that has well-structured hiring and onboarding processes, to foster a productive and long-term partnership.
-- 😄 You can check API that I built for Watertracker app, check it out [here](https://watertracker-backend-rsfd.onrender.com/api-docs/)
+- 😄 You can check API that I built for Watertracker app, check it out [here](https://watertracker-backend-4r1j.onrender.com/api-docs/)
 - 📫 How to reach me: **anton.kononov.dev@gmail.com**
 
 <!--
